@@ -25,7 +25,7 @@ SECRET_KEY = '(9oj+8#=2b7nw@()b44j)4&b=7j0=p=6u3*q4*r86q$y(@o9#('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ('paramparim.pythonanywhere.com', )
 
 
 # Application definition
